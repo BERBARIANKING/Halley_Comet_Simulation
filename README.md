@@ -1,7 +1,7 @@
 # Halley Comet Simulation
 A real time simulation of the Halley comet during the summer of 1986
 
-##The History of Halley's Comet
+## The History of Halley's Comet
 
 Until the time of English astronomer Edmond Halley (1656-1742), comets were believed to make only one pass through the solar system.
 
