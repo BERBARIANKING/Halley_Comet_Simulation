@@ -1,5 +1,5 @@
 # Halley Comet Simulation
-A real time simulation of the Halley comet during the summer of 1986
+A real time simulation of the [Halley] comet during the summer of 1986 (https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/1p-halley/in-depth/)
 
 ## The History of Halley's Comet
 
