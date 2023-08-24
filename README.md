@@ -13,9 +13,9 @@ In 1986, an international fleet spacecraft met the comet for an unprecedented st
 
 <img src="/img/Halley.jpg" title="Halley" alt="Halley">
 
-## Haley Comet python Simulation
+## Halley Comet python Simulation
 
-Below we are able to see the output of the Halley Comet while passing through our solar system
+Below we are able to see the output of the Halley_simulation.py program while passing through our solar system
 
 <img src="/img/hsp.png" title="Halley" alt="Halley">
 
