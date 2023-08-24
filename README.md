@@ -17,7 +17,7 @@ In 1986, an international fleet spacecraft met the comet for an unprecedented st
 
 Below we are able to see the output of the Halley Comet while passing through our solar system
 
-<img src="/img/hsp.jpg" title="Halley" alt="Halley">
+<img src="/img/hsp.png" title="Halley" alt="Halley">
 
 
 
